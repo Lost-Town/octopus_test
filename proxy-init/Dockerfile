@@ -1,0 +1,1 @@
+From cr.l5d.io/linkerd/proxy-init:v1.4.0
